@@ -1,0 +1,29 @@
+{
+  "episode_id": "ep_001",
+  "title": "Orb Weaver",
+  "topic": "Website ORBS intelligence that makes your website smarter.",
+  "audio_file": "C:\\dev\\Desktop\\The Real Dandy\\Dandy\\episodes\\ep_001\\audio.mp3",
+  "segment_count": 16,
+  "generated_at": "2026-08-18T14:03:12.490807",
+  "processing": {
+    "input_file": "C:\\dev\\Desktop\\The Real Dandy\\Dandy\\staging\\tmpwnei3km0\\ep_001_raw_mix.mp3",
+    "output_file": "C:\\dev\\Desktop\\The Real Dandy\\Dandy\\episodes\\ep_001\\audio.mp3",
+    "measured_loudness": "-16.04",
+    "final_loudness": "-15.86",
+    "true_peak": "-0.21",
+    "loudness_range": "1.80",
+    "compliant": false,
+    "processing_chain": "two_pass_ffmpeg",
+    "intro_outro": "failed: Invalid voice ''."
+  },
+  "voice_assignments": {
+    "phil": {
+      "primary": "am_michael",
+      "fallback": "en-US-GuyNeural"
+    },
+    "jim": {
+      "primary": "am_liam",
+      "fallback": "en-US-TonyNeural"
+    }
+  }
+}

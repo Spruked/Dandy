@@ -1,0 +1,26 @@
+{
+  "job_id": "job_bryan_002_8a6aa745",
+  "episode_id": "bryan_002",
+  "created_at": "2026-08-19T13:33:54.793366",
+  "updated_at": "2026-08-19T13:33:54.793366",
+  "status": "draft_created",
+  "config": {
+    "episode_id": "bryan_002",
+    "title": "Bryan Spruk Founder",
+    "topic": "Developer and founder Bryan Spruk the perfect brain storm.",
+    "description": "Bryan Spruk is the mysterious, electrically\u2011charged mastermind behind the curtain \u2014 the guy pulling levers, flipping switches, and making lightning strike twice just because he\u2019s bored. Some say he\u2019s a wizard. Some say he\u2019s a glitch in the matrix. Phil says he once saw Bryan reboot a server with a stare. Jim says Bryan\u2019s shadow has its own Wi\u2011Fi signal.\n\nHe\u2019s the kind of man who walks into a room and every device updates itself out of respect.\nHe\u2019s the storm behind the Spruk.\nHe\u2019s the tech\u2011sorcerer of the Midwest.\nHe\u2019s the guy who makes the cloud nervous because he doesn\u2019t need it.\n\nWhen Bryan Spruk is working, the curtain doesn\u2019t hide the wizard \u2014\nthe curtain hides from HIM.",
+    "key_points": [
+      "\u201cBryan Spruk: the only man who can mint a certificate and a legend at the same time.\u201d",
+      "\u201cWhen Bryan enters the room, even the error messages apologize.\u201d",
+      "\u201cBryan doesn\u2019t debug code \u2014 the bugs pack their bags and leave.\u201d",
+      "\u201cSpruk doesn\u2019t follow the rules of tech\u2026 tech follows the rules of Spruk.\u201d",
+      "\u201cIf the Wizard of Oz had a boss, it would be Bryan.\u201d"
+    ],
+    "target_duration": 1920,
+    "intensity": "medium",
+    "generation_mode": "ai_generate",
+    "provided_script": null,
+    "expand_short_script": false,
+    "target_word_count": 4800
+  }
+}

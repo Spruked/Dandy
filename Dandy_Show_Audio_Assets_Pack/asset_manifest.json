@@ -1,0 +1,121 @@
+{
+  "pack": "Dandy Show uploaded audio assets",
+  "destination_root": "asset_library",
+  "notes": [
+    "Structured for Dandy's repo-wide asset library auto-indexer.",
+    "Jingles, SFX, and music remain reusable global assets.",
+    "Original filenames are preserved."
+  ],
+  "assets": [
+    {
+      "filename": "Dandyshowmerrychristmas.mp3",
+      "role": "jingle",
+      "destination": "asset_library/jingles/Dandyshowmerrychristmas.mp3",
+      "duration_seconds": 23.858,
+      "channels": 1,
+      "sample_rate_hz": 24000,
+      "avg_dbfs": -21.18,
+      "peak_dbfs": -2.73,
+      "sha256": "64545af0db86d7570bee0a72559a9cfd99deca93a537417a9a948104fc0c289b"
+    },
+    {
+      "filename": "introclip.mp3",
+      "role": "jingle",
+      "destination": "asset_library/jingles/introclip.mp3",
+      "duration_seconds": 18.0,
+      "channels": 2,
+      "sample_rate_hz": 48000,
+      "avg_dbfs": -16.21,
+      "peak_dbfs": -0.13,
+      "sha256": "995751eeca134e61331a924f4ccc5433c7bff8ba1c769dc302440ebb2b96500e"
+    },
+    {
+      "filename": "jump.mp3",
+      "role": "music",
+      "destination": "asset_library/music/jump.mp3",
+      "duration_seconds": 177.137,
+      "channels": 2,
+      "sample_rate_hz": 44100,
+      "avg_dbfs": -18.89,
+      "peak_dbfs": -0.72,
+      "sha256": "422bc7f4d92f67dd555efcc4ad56ff9d921cebaf7a4c2bb86f50b922683b1d9c"
+    },
+    {
+      "filename": "dinkdinkglass.mp3",
+      "role": "sfx",
+      "destination": "asset_library/sfx/dinkdinkglass.mp3",
+      "duration_seconds": 1.541,
+      "channels": 2,
+      "sample_rate_hz": 44100,
+      "avg_dbfs": -25.79,
+      "peak_dbfs": -11.27,
+      "sha256": "4863d325b435675298ae0c4aa6e84d6537c836aab8af6ee5ded6d6d4b569dc0c"
+    },
+    {
+      "filename": "dropsoundshort.mp3",
+      "role": "sfx",
+      "destination": "asset_library/sfx/dropsoundshort.mp3",
+      "duration_seconds": 3.318,
+      "channels": 2,
+      "sample_rate_hz": 44100,
+      "avg_dbfs": -16.0,
+      "peak_dbfs": -4.48,
+      "sha256": "ea82c596c2d0d14b912431f7cf886ca1017bdb76d62e173d2104ccf52be896bd"
+    },
+    {
+      "filename": "fastworker soundsclinkclank.mp3",
+      "role": "sfx",
+      "destination": "asset_library/sfx/fastworker soundsclinkclank.mp3",
+      "duration_seconds": 13.375,
+      "channels": 2,
+      "sample_rate_hz": 44100,
+      "avg_dbfs": -31.93,
+      "peak_dbfs": -3.6,
+      "sha256": "48ef9d8d7ce98f54527ef2aa15a57737b0b92f4e8ec6aa78ad8ecd1d7a7cc822"
+    },
+    {
+      "filename": "freesound_community-little-robot-sound-84657.mp3",
+      "role": "sfx",
+      "destination": "asset_library/sfx/freesound_community-little-robot-sound-84657.mp3",
+      "duration_seconds": 9.144,
+      "channels": 2,
+      "sample_rate_hz": 24000,
+      "avg_dbfs": -22.42,
+      "peak_dbfs": -5.92,
+      "sha256": "35d8a99a8702f31a7e8e982a1bfd4b7866aace551f7b88cb1b65445a48d1146e"
+    },
+    {
+      "filename": "hoverhumorbweaver1.mp3",
+      "role": "sfx",
+      "destination": "asset_library/sfx/hoverhumorbweaver1.mp3",
+      "duration_seconds": 7.8,
+      "channels": 2,
+      "sample_rate_hz": 24000,
+      "avg_dbfs": -24.54,
+      "peak_dbfs": -7.33,
+      "sha256": "4d04baee54e0c0be3ac570625e949a22a69d2897ab6fe79d118b372df8423276"
+    },
+    {
+      "filename": "bongbing.mp3",
+      "role": "sfx",
+      "destination": "asset_library/sfx/bongbing.mp3",
+      "duration_seconds": 1.152,
+      "channels": 2,
+      "sample_rate_hz": 24000,
+      "avg_dbfs": -19.54,
+      "peak_dbfs": -4.17,
+      "sha256": "89e000248896bc5e89f8ac2d00b9c73dfa6e8e8ea4e41ead79cebe667eab9bb4"
+    },
+    {
+      "filename": "cartoon_trombone_sound.mp3",
+      "role": "sfx",
+      "destination": "asset_library/sfx/cartoon_trombone_sound.mp3",
+      "duration_seconds": 3.788,
+      "channels": 2,
+      "sample_rate_hz": 44100,
+      "avg_dbfs": -18.27,
+      "peak_dbfs": -1.93,
+      "sha256": "8f1cc3ddcaf80f12645653cbfb7d3be7789f911e4d45e813d3583af14306a94e"
+    }
+  ]
+}

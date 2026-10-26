@@ -1,0 +1,288 @@
+{
+  "episode_id": "ep_001",
+  "updated_at": "2026-08-18T11:48:40.916785",
+  "script": [
+    {
+      "speaker": "phil",
+      "text": "I've been thinking about websites a lot lately, and I've been curious about how they can evolve beyond just being static pages. You know, like turning them into something more like a personal assistant that keeps track of your journeys through the.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 1,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Oh yeah, I see what you mean. So, how does it actually work? Like, is it like a giant brain that learns everything about the site and then gives you helpful suggestions?",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 2,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "So, I was thinking, maybe it could understand what people are looking for and suggest the next best step. It could be like, if someone is on the homepage, it could say, \"Hey, have you considered signing up for the newsletter? It's.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 3,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Yeah but, let's hold on. How exactly does it do that? I mean, how do you make it understand what the user is looking for? It's not like it can read minds, right?",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 4,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Okay, hear me out. It's like, it processes the content and the flow, and it figures out the best next step based on what the user is doing. It's like, if they're not on the homepage and they're on a page related.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 5,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Got it, but how does it know what's the next best step? It's not like it can predict the future, right?",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 6,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Yeah, it's grounded in the actual website, Jim. It understands what pages are related, what actions are approved, and what funnels are in place. It's like, it knows the flow, and it can suggest the next logical step based on that. It's.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 7,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Well, it's like, it processes the content and the flow, and it figures out the best next step based on what the user is doing. It's like, if they're not on the homepage and they're on a page related.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 8,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Hold on, how does it know what's the next best step? It's not like it can predict the future, right?",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 9,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "It's like a personal assistant, Jim. It's not just a static page, but a smart guide that helps visitors find their way through the website. It knows the flow and the next best step based on what the user is doing.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 10,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Yeah, it processes the content and the flow, and it figures out the best next step based on what the user is doing. It's like, if they're not on the homepage and they're on a page related.",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 11,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Exactly. It understands what pages are related, what actions are approved, and what funnels are in place. It's like, it knows the flow, and it can suggest the next logical step based on that. It's like, if they're not on the homepage.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787071682431,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 12,
+      "generated_by": "llamacpp"
+    }
+  ],
+  "metadata": {
+    "line_count": 12,
+    "phil_count": 7,
+    "jim_count": 5,
+    "host_count": 0,
+    "ads_count": 0,
+    "estimated_runtime_seconds": 78,
+    "writer_engine": "llm_bridge",
+    "writer_engine_actual": "llm_bridge",
+    "fallback_used": false,
+    "fallback_sources": [],
+    "fallback_line_count": 0,
+    "llm_sources": [
+      "llamacpp"
+    ],
+    "llm_line_count": 12,
+    "structural_sources": [],
+    "structural_line_count": 0,
+    "unknown_line_count": 0,
+    "line_source_counts": {
+      "llamacpp": 12
+    },
+    "provenance_reliable": true,
+    "repetition_guard_passed": true,
+    "repetition_guard_max_allowed": 3,
+    "max_repeated_line_count": 1,
+    "repeated_line_count": 0,
+    "duplicate_line_instances": 0,
+    "top_repeated_lines": []
+  }
+}

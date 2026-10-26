@@ -1,0 +1,288 @@
+{
+  "episode_id": "weave-001",
+  "updated_at": "2026-08-18T15:26:13.094611",
+  "script": [
+    {
+      "speaker": "phil",
+      "text": "You ever think about how websites can be like a garden, Phil? Each page is a flower, and the pathways between them are the roots and stems. It's like building a story around a single idea, but with a website, it's a.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 1,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Yeah but, okay, I can see where you're going. Let's take a step back, okay? I don't want to lose the idea, okay? Hold on. Let's look at a simpler thing: like a garden, how can you take the most basic elements\u2014plants.",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 2,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Of course, you're right. But in a website, it's not just the content that matters. There's the context, the pathways, the relationships, and the verified actions. It's like a web of connections, Jim. It's the pathways that guide visitors, the context that.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 3,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Show me. Okay, let's take that example you gave earlier about the website's content, pathways, relationships, and verified actions. How do you turn that into something that a visitor can use? Show me.",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 4,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Okay, let's start with the content. We've got this idea that the website should guide visitors through the site. It's like the plants in a garden, the different types of content that lead the visitor to the next step. The pathways are.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 5,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Yeah but, hold on, let's make it concrete. Let's say we have a visitor who's not sure about a particular section of the website. How do we show them the next step? Show me.",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 6,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Let's say we have an idea that the website should guide visitors through the site. We've got a pathway that leads them to this particular section of the website. And we have a relationship that connects this idea to the visitors, who.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 7,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Okay, let's make it more concrete. Let's take this example. We've got a visitor who's not sure about a particular section of the website. We've got a pathway that leads them there. The relationship is that they need this next step, and.",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 8,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Okay, let's take this example. We've got a visitor who's not sure about a particular section of the website. We've got a pathway that leads them to this section. The relationship is that they need this next step, and we've got the.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 9,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Okay, let's make it even more concrete. Let's say we have a visitor who's not sure about a particular section of the website. We've got a pathway that leads them there, and we've got the verified action that ensures they're ready. We've.",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 10,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "phil",
+      "text": "Okay, let's take this example. We've got a visitor who's not sure about a particular section of the website. We've got a pathway that leads them there, and we've got the verified action that ensures they're ready. We've got the content that.",
+      "emotion": "warm",
+      "pause_after": 0.35,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 11,
+      "generated_by": "llamacpp"
+    },
+    {
+      "speaker": "jim",
+      "text": "Show me.",
+      "emotion": "neutral",
+      "pause_after": 0.55,
+      "rhythm": {
+        "human_load": 0.45,
+        "desync_risk": 0.448,
+        "turn_latency_ms": 0.0,
+        "tempo": "normal",
+        "intensity": "medium",
+        "verbosity": "medium",
+        "cooldown_until_ms": 1787084542918,
+        "version": 1,
+        "interaction_tempo": "normal",
+        "cognitive_intensity": "medium",
+        "last_turn_ms": 0.0
+      },
+      "line_number": 12,
+      "generated_by": "llamacpp"
+    }
+  ],
+  "metadata": {
+    "line_count": 12,
+    "phil_count": 6,
+    "jim_count": 6,
+    "host_count": 0,
+    "ads_count": 0,
+    "estimated_runtime_seconds": 78,
+    "writer_engine": "llm_bridge",
+    "writer_engine_actual": "llm_bridge",
+    "fallback_used": false,
+    "fallback_sources": [],
+    "fallback_line_count": 0,
+    "llm_sources": [
+      "llamacpp"
+    ],
+    "llm_line_count": 12,
+    "structural_sources": [],
+    "structural_line_count": 0,
+    "unknown_line_count": 0,
+    "line_source_counts": {
+      "llamacpp": 12
+    },
+    "provenance_reliable": true,
+    "repetition_guard_passed": true,
+    "repetition_guard_max_allowed": 3,
+    "max_repeated_line_count": 1,
+    "repeated_line_count": 0,
+    "duplicate_line_instances": 0,
+    "top_repeated_lines": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "job_id": "job_ep_001_3e5dc835",
+  "episode_id": "ep_001",
+  "created_at": "2026-08-18T13:05:36.216800",
+  "updated_at": "2026-08-18T13:05:36.216800",
+  "status": "draft_created",
+  "config": {
+    "episode_id": "ep_001",
+    "title": "Orb Weaver",
+    "topic": "Website ORBS intelligence that makes your website smarter.",
+    "description": "Website ORBS Intelligence makes a website more useful by adding an intelligent visitor-assistance layer that understands the site\u2019s content, structure, navigation, and approved actions. Instead of acting like a generic chatbot, the ORB helps visitors find what they need, understand what they are looking at, move through important funnels, and reach the right next step while staying grounded in the actual website and owner-defined rules.",
+    "key_points": [
+      "Website ORBS turns a static website into an active visitor-guidance system.",
+      "It understands site content, navigation, funnels, and approved next actions.",
+      "The ORB helps visitors find answers and move toward the right page or conversion step.",
+      "It is designed to guide rather than invent, keeping responses grounded in the actual website.",
+      "Website owners gain a smarter assistance layer without rebuilding the entire site."
+    ],
+    "target_duration": 120,
+    "intensity": "medium",
+    "generation_mode": "ai_generate",
+    "provided_script": null,
+    "expand_short_script": false,
+    "target_word_count": 310
+  }
+}

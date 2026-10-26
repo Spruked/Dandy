@@ -1,0 +1,27 @@
+{
+  "episode_id": "weave-001",
+  "title": "Orb Weaver",
+  "topic": "How Orb Weaver weaves a website's content, pathways, relationships, and verified actions into an intelligent Website ORB that can guide visitors through the site.",
+  "description": "Orb Weaver is a website-intelligence system that studies a website, organizes what it learns, and creates a knowledgeable Website ORB that can guide visitors through the site. Instead of acting like a general chatbot, the ORB understands the website's content, products, services, navigation, funnels, terminology, and approved actions. It can answer questions, identify the next useful step, and guide the visitor toward the correct page, form, product, appointment, or support path.\n\nOrb Weaver transforms a website into a woven system of intelligence.\n\nA website is not merely a collection of pages. It is a web of ideas, products, services, routes, relationships, choices, and destinations. Orb Weaver studies those elements and weaves them together into a structured knowledge system that a Website ORB can understand and use.\n\nIt does not simply crawl a website, collect text, and repeat what it finds. It identifies how information connects, how visitors move through the site, which actions matter, where friction occurs, and which destinations can be safely recommended. It maps the language of the business, the relationships between pages, the important entities, the visitor pathways, and the verified buttons, links, forms, and calls to action.\n\nFrom that weave, Orb Weaver creates a Website ORB that can speak with visitors, answer questions, explain products and services, guide attention, and help people move through the website with less confusion.\n\nThe result is not a generic chatbot. It is a governed digital guide woven from the website itself.Description: Orb Weaver is a website-intelligence system that weaves a site's content, relationships, routes, products, services, funnels, and verified actions into a structured knowledge base. That woven intelligence powers a governed Website ORB that can understand visitor intent, explain the site, and guide people toward the correct information or next step.",
+  "key_points": [
+    "Weave, not crawl: turning website content, routes, relationships, and actions into structured intelligence.",
+    "Visitor guidance: helping people understand the site, find what they need, and move to the next approved step.",
+    "Governed Website ORB: owner-controlled knowledge, verified targets, and safe guidance instead of generic chatbot behavior.",
+    "Static websites force visitors to hunt through menus, pages, and disconnected information.",
+    "Generic chatbots often misunderstand the website, invent answers, or fail to guide visitors toward real actions.",
+    "Visitors abandon journeys when products, services, forms, support, or next",
+    "steps are difficult to find.",
+    "Orb Weaver weaves the site's content, routes, relationships, funnels, terminology, and verified targets into structured intelligence.",
+    "The Website ORB uses that weave to answer questions, explain options, and guide visitors toward approved next steps.",
+    "Owner governance keeps the ORB grounded in verified knowledge, controlled actions, and safe visitor guidance."
+  ],
+  "target_duration": 180,
+  "intensity": "medium",
+  "generation_mode": "ai_generate",
+  "provided_script": null,
+  "expand_short_script": false,
+  "target_word_count": 465,
+  "custom_instructions": "",
+  "target_minutes": 3,
+  "updated_at": "2026-08-18T15:32:54.739164"
+}

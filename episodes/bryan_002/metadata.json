@@ -1,0 +1,28 @@
+{
+  "line_count": 3,
+  "phil_count": 0,
+  "jim_count": 0,
+  "host_count": 0,
+  "ads_count": 0,
+  "estimated_runtime_seconds": 19,
+  "writer_engine": "unknown",
+  "writer_engine_actual": "unknown",
+  "fallback_used": false,
+  "fallback_sources": [],
+  "fallback_line_count": 0,
+  "llm_sources": [],
+  "llm_line_count": 0,
+  "structural_sources": [],
+  "structural_line_count": 0,
+  "unknown_line_count": 3,
+  "line_source_counts": {
+    "unknown": 3
+  },
+  "provenance_reliable": false,
+  "repetition_guard_passed": true,
+  "repetition_guard_max_allowed": 3,
+  "max_repeated_line_count": 1,
+  "repeated_line_count": 0,
+  "duplicate_line_instances": 0,
+  "top_repeated_lines": []
+}

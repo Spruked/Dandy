@@ -1,0 +1,29 @@
+{
+  "episode_id": "weave-001",
+  "title": "Orb Weaver",
+  "topic": "How Orb Weaver weaves a website's content, pathways, relationships, and verified actions into an intelligent Website ORB that can guide visitors through the site.",
+  "audio_file": "C:\\dev\\Desktop\\The Real Dandy\\Dandy\\episodes\\weave-001\\audio.mp3",
+  "segment_count": 19,
+  "generated_at": "2026-08-18T16:05:39.617365",
+  "processing": {
+    "input_file": "C:\\dev\\Desktop\\The Real Dandy\\Dandy\\staging\\tmpq5t7omh4\\weave-001_raw_mix.mp3",
+    "output_file": "C:\\dev\\Desktop\\The Real Dandy\\Dandy\\episodes\\weave-001\\audio.mp3",
+    "measured_loudness": "-16.96",
+    "final_loudness": "-16.21",
+    "true_peak": "-0.97",
+    "loudness_range": "2.00",
+    "compliant": false,
+    "processing_chain": "two_pass_ffmpeg",
+    "intro_outro": "failed: Invalid voice ''."
+  },
+  "voice_assignments": {
+    "phil": {
+      "primary": "am_michael",
+      "fallback": "en-US-GuyNeural"
+    },
+    "jim": {
+      "primary": "am_liam",
+      "fallback": "en-US-TonyNeural"
+    }
+  }
+}
